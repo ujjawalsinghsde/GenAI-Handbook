@@ -1,6 +1,7 @@
 ## 🧠 First, the ONE-LINE difference
 
-> **Structured Output** is about **telling the LLM *how* to answer**
+> **Structured Output** is about **telling the LLM *how* to answer.**
+
 > **Output Parser** is about **processing *what* the LLM answered**
 
 They solve **different problems**, but work **together**.
@@ -176,7 +177,8 @@ class Person(BaseModel):
 
 ## 🎯 Golden Rule (Remember This)
 
-> **Structured Output makes LLM behave better**
+> **Structured Output makes LLM behave better.**
+
 > **Output Parser makes your system safe**
 
 You should **always use both** in real projects.
