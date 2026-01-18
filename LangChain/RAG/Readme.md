@@ -81,7 +81,7 @@ So the system becomes:
 
 # 4️⃣ RAG Architecture – Step-by-Step Breakdown
 
-![RAG Architecture](/rag_architecture.png)
+![RAG Architecture](./rag_architecture.png)
 
 RAG follows four main steps.
 
