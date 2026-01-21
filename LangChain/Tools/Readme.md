@@ -279,7 +279,7 @@ custom_toolkit = [add_tool, multiply_tool, subtraction_tool]
 
 ---
 
-# **7. Tools + LLM + Agents (How They Combine)**
+# **7. Tools + LLM = Agents (How They Combine)**
 
 A complete agent system requires:
 
