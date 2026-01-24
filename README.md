@@ -18,6 +18,10 @@ Models like GPT-4 can understand text, write code, summarize, reason, and solve 
 A developer-friendly framework to **build real AI applications**:
 RAG, agents, tools, workflows, document processing, vector search, and more.
 
+### **🔁 LangGraph**
+
+LangGraph is a framework built on top of LangChain that lets you create **graph-based, stateful, and controlled AI workflows** — ideal for building reliable agents, iterative reasoning loops, and complex multi-step processes.
+
 ---
 
 # 📚 **LangChain Knowledge Map**
