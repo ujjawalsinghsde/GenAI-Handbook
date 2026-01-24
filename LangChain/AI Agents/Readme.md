@@ -1,6 +1,6 @@
 # **📘 AI Agents**
 
-# **1. Introduction to AI Agents**
+## **1. Introduction to AI Agents**
 
 An **AI Agent** is a system that can:
 
@@ -32,7 +32,7 @@ Agents convert these complex, multi-step workflows into a natural conversation:
 
 ---
 
-# **2. Core Characteristics of AI Agents**
+## **2. Core Characteristics of AI Agents**
 
 AI Agents are defined by five key properties:
 
@@ -58,7 +58,7 @@ If a tool fails or new information comes in, the agent reshapes the plan.
 
 ---
 
-# **3. Understanding the REACT Framework**
+## **3. Understanding the REACT Framework**
 
 **REACT** stands for **Reasoning + Acting**.
 
@@ -108,7 +108,7 @@ Example:
 
 ---
 
-# **4. Architecture of an AI Agent in LangChain**
+## **4. Architecture of an AI Agent in LangChain**
 
 The full system consists of:
 
@@ -123,9 +123,9 @@ Let’s break each component in detail.
 
 ---
 
-# **5. Agent vs AgentExecutor**
+## **5. Agent vs AgentExecutor**
 
-## **5.1 Agent**
+### **5.1 Agent**
 
 The agent decides:
 
@@ -146,7 +146,7 @@ The agent relies on:
 
 ---
 
-## **5.2 AgentExecutor**
+### **5.2 AgentExecutor**
 
 The executor manages the entire lifecycle:
 
@@ -162,7 +162,7 @@ The executor manages the entire lifecycle:
 
 ---
 
-# **6. Flow of an AI Agent (Step-By-Step)**
+## **6. Flow of an AI Agent (Step-By-Step)**
 
 Below is a clean, readable architecture flow:
 
@@ -197,9 +197,9 @@ If done → Final Answer
 
 ---
 
-# **7. Creating an Agent in LangChain**
+## **7. Creating an Agent in LangChain**
 
-## **7.1 Steps to Build**
+### **Steps to Build**
 
 ### **1. Load LLM**
 
@@ -247,7 +247,7 @@ To orchestrate:
 
 ---
 
-# **8. Example: Multi-Step Agent Execution**
+## **8. Example: Multi-Step Agent Execution**
 
 Let’s walk through the reasoning trace of a typical agent.
 
@@ -302,7 +302,7 @@ I now know the final answer.
 
 ---
 
-# **9. Adding Custom Tools**
+## **9. Adding Custom Tools**
 
 Agents become truly powerful when extended with custom tools.
 
@@ -338,17 +338,17 @@ The agent automatically discovers and executes each step.
 
 ---
 
-# **10. Designing End-to-End Real-World Agents**
+## **10. Designing End-to-End Real-World Agents**
 
 A production-grade agent incorporates:
 
-## **10.1 Orchestration Layer**
+### **10.1 Orchestration Layer**
 
 * Manages full workflow
 * Handles multiple steps
 * Manages retries and errors
 
-## **10.2 Reasoning Layer**
+### **10.2 Reasoning Layer**
 
 Uses structured patterns like:
 
@@ -356,7 +356,7 @@ Uses structured patterns like:
 * Plan-and-execute
 * Decomposition strategies
 
-## **10.3 Tooling Layer**
+### **10.3 Tooling Layer**
 
 Integrates all APIs and services:
 
@@ -365,7 +365,7 @@ Integrates all APIs and services:
 * DB connections
 * Utility functions
 
-## **10.4 Memory Layer**
+### **10.4 Memory Layer**
 
 Includes:
 
@@ -373,7 +373,7 @@ Includes:
 * Conversation memory
 * Long-term state
 
-## **10.5 Safety Layer**
+### **10.5 Safety Layer**
 
 Controls:
 
@@ -383,7 +383,7 @@ Controls:
 
 ---
 
-# **11. Advanced Concepts**
+## **11. Advanced Concepts**
 
 ### **Delegation**
 
@@ -403,7 +403,7 @@ Agents reason about incorrect tool results and re-query or retry.
 
 ---
 
-# **12. Practical Best Practices**
+## **12. Practical Best Practices**
 
 ### **Prompt Design**
 
@@ -434,7 +434,7 @@ Agents reason about incorrect tool results and re-query or retry.
 
 ---
 
-# **13. Final Summary**
+## **13. Final Summary**
 
 Building an end-to-end AI Agent in LangChain requires integrating:
 
@@ -450,6 +450,13 @@ Agents support:
 * Autonomous planning
 * External tool execution
 * Real-world workflow automation
+
+---
+
+### **Note**
+
+* The modern way to build AI agents is **LangGraph**, not LangChain’s agent system.
+* LangGraph gives structure, determinism, and correctness for serious, real-world AI agent applications.
 
 ---
 
