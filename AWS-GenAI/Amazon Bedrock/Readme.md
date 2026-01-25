@@ -459,5 +459,3 @@ Helps optimize production workloads.
 Bedrock is the **enterprise-grade platform for building real-world AI systems**.
 
 ---
-
-Just tell me!
