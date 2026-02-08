@@ -418,8 +418,3 @@ Secure and reliable tool calling requires careful implementation:
 * Tools can be chained
 * Injected arguments prevent hallucination
 * This mechanism is the base layer for building autonomous agents
-
----
-
-
-Just tell me.

@@ -366,5 +366,3 @@ One tool = one action.
 
 Tools → extend LLM capability
 Agents → orchestrate LLM + tools
-
----

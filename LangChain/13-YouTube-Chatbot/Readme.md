@@ -555,5 +555,3 @@ Ideal for:
 | Speed         | Cache embeddings + FAISS index                      |
 | Scaling       | Move to Pinecone / Qdrant                           |
 | Evaluation    | Use RAGAS metrics (faithfulness, recall, relevancy) |
-
----
