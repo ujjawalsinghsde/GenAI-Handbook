@@ -14,7 +14,7 @@ Each module includes explanations, examples, and practical guidance.
 
 ## 01 — Introduction to LangChain
 
-📁 Folder: [`/01-Introduction-to-LangChain`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/01-Introduction-to-LangChain)
+📁 Folder: [`/01-Introduction-to-LangChain`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/01-Introduction-to-LangChain/Readme.md)
 
 Covers the fundamentals of LangChain:
 
@@ -29,7 +29,7 @@ This is the conceptual foundation for the entire module.
 
 ## 02 — Models
 
-📁 Folder: [`/02-Models`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/02-Models)
+📁 Folder: [`/02-Models`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/02-Models/Readme.md)
 
 Learn about the different model types supported in LangChain:
 
@@ -45,7 +45,7 @@ Understanding models is essential before building pipelines.
 
 ## 03 — Prompts
 
-📁 Folder: [`/03-Prompts`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/03-Prompts)
+📁 Folder: [`/03-Prompts`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/03-Prompts/Readme.md)
 
 A complete guide on writing robust prompts:
 
@@ -61,7 +61,7 @@ This section improves prompt clarity and reduces ambiguity.
 
 ## 04 — Structured Output
 
-📁 Folder: [`/04-Structured-Output`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/04-Structured-Output)
+📁 Folder: [`/04-Structured-Output`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/04-Structured-Output/Readme.md)
 
 Learn how to instruct LLMs to return structured formats:
 
@@ -76,7 +76,7 @@ Critical for production-grade pipelines.
 
 ## 05 — Output Parsers
 
-📁 Folder: [`/05-Output-Parsers`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/05-Output-Parsers)
+📁 Folder: [`/05-Output-Parsers`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/05-Output-Parsers/Readme.md)
 
 Output parsers help convert raw LLM text into usable formats:
 
@@ -91,7 +91,7 @@ Useful when combining LLMs with downstream logic.
 
 ## 06 — Chains
 
-📁 Folder: [`/06-Chains`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/06-Chains)
+📁 Folder: [`/06-Chains`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/06-Chains/Readme.md)
 
 Chains allow multiple steps to be combined into a single workflow:
 
@@ -106,7 +106,7 @@ Chains are the backbone of LangChain applications.
 
 ## 07 — Runnable
 
-📁 Folder: [`/07-Runnable`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/07-Runnable)
+📁 Folder: [`/07-Runnable`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/07-Runnable/Readme.md)
 
 Learn the LangChain Expression Language (LCEL):
 
@@ -121,7 +121,7 @@ Runnables are the modern execution layer under the hood.
 
 ## 08 — Document Loaders
 
-📁 Folder: [`/08-Document-Loaders`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/08-Document-Loaders)
+📁 Folder: [`/08-Document-Loaders`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/08-Document-Loaders/Readme.md)
 
 Load content from various data sources:
 
@@ -137,7 +137,7 @@ The first stage of the RAG pipeline.
 
 ## 09 — Text Splitter
 
-📁 Folder: [`/09-Text-Splitter`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/09-Text-Splitter)
+📁 Folder: [`/09-Text-Splitter`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/09-Text-Splitter/Readme.md)
 
 Chunking documents before embedding:
 
@@ -152,7 +152,7 @@ A key step for RAG accuracy.
 
 ## 10 — Vector Stores
 
-📁 Folder: [`/10-Vector-Stores`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/10-Vector-Stores)
+📁 Folder: [`/10-Vector-Stores`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/10-Vector-Stores/Readme.md)
 
 Vector stores persist embeddings and enable similarity search:
 
@@ -168,7 +168,7 @@ Acts as the retrieval database for GenAI systems.
 
 ## 11 — Retrievers
 
-📁 Folder: [`/11-Retrievers`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/11-Retrievers)
+📁 Folder: [`/11-Retrievers`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/11-Retrievers/Readme.md)
 
 Retrievers return relevant information using:
 
@@ -184,7 +184,7 @@ Retrievers determine the quality of responses in RAG.
 
 ## 12 — RAG (Retrieval-Augmented Generation)
 
-📁 Folder: [`/12-RAG`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/12-RAG)
+📁 Folder: [`/12-RAG`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/12-RAG/Readme.md)
 
 Complete RAG workflow design:
 
@@ -201,7 +201,7 @@ This module integrates everything from 01–11.
 
 ## 13 — YouTube Chatbot
 
-📁 Folder: [`/13-YouTube-Chatbot`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/13-YouTube-Chatbot)
+📁 Folder: [`/13-YouTube-Chatbot`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/13-YouTube-Chatbot/Readme.md)
 
 A hands-on project demonstrating:
 
@@ -216,7 +216,7 @@ A complete, practical RAG implementation.
 
 ## 14 — Tools
 
-📁 Folder: [`/14-Tools`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/14-Tools)
+📁 Folder: [`/14-Tools`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/14-Tools/Readme.md)
 
 Learn how to give LLMs capabilities:
 
@@ -231,7 +231,7 @@ Tools allow the model to take actions beyond text generation.
 
 ## 15 — Tool Calling
 
-📁 Folder: [`/15-Tool-Calling`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/15-Tool-Calling)
+📁 Folder: [`/15-Tool-Calling`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/15-Tool%20Calling/Readme.md)
 
 Modern LLMs can intelligently choose tools.
 
@@ -248,7 +248,7 @@ Essential for agent development.
 
 ## 16 — AI Agents
 
-📁 Folder: [`/16-AI-Agents`](https://github.com/ujjawalsinghsde/GenAI-Handbook/tree/main/LangChain/16-AI-Agents)
+📁 Folder: [`/16-AI-Agents`](https://github.com/ujjawalsinghsde/GenAI-Handbook/blob/main/LangChain/16-AI%20Agents/Readme.md)
 
 Agents execute multi-step reasoning loops and use tools.
 
