@@ -32,7 +32,7 @@ It allows LLMs to use external knowledge at runtime instead of relying only on t
 
 ## 2.2 Traditional RAG Workflow
 
-![Image](https://miro.medium.com/0%2A7OaGfO2DctgswevJ.jpeg) 
+[![C-RAG Flow](./rag.jpeg)](https://miro.medium.com/0%2A7OaGfO2DctgswevJ.jpeg)
 
 ### Step 1 — Retrieval
 
@@ -112,7 +112,7 @@ It adds:
 
 # 5. High-Level Architecture of C-RAG
 
-![Image](https://miro.medium.com/v2/resize%3Afit%3A2000/1%2AqKV_BQ4X2cFVhU1DIMRtKw.png)
+[![C-RAG Flow](./c-rag.png)](https://miro.medium.com/v2/resize%3Afit%3A2000/1%2AqKV_BQ4X2cFVhU1DIMRtKw.png)
 
 The architecture introduces decision logic between retrieval and generation.
 
